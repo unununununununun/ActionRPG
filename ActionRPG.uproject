@@ -140,6 +140,10 @@
 			"SupportedTargetPlatforms": [
 				"Lumin"
 			]
+		},
+		{
+			"Name": "FMODStudio",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
